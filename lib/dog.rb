@@ -21,4 +21,3 @@ fido.name
 # => "Fido"
 
 fido.bark
-
